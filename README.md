@@ -5,6 +5,21 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link do curso [Python Pro](https://plataforma.dev.pro.br/)
 
+Suportado versão 3 de Python
+
+Para instalar:
+
+```console
+python3 -m venv .venv
+sourve .venv/bin/activate
+pip intall -r requiriments-dev.txt
+```
+
+Para conferir qualidade do código:
+```console
+flake8
+```
+
 Adicionada linha para teste da feature branch.
 
 Tópicos a serem mencionados:
