@@ -10,3 +10,8 @@ Branch pre-fix: pyup-
 Close PRs: True
 Label PRs: False
 Update hashes: True
+requirements:
+  - requiriments-dev.txt:
+      # update all dependencies and pin them
+      update: all
+      pin: True
