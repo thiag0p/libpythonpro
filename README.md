@@ -5,7 +5,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link do curso [Python Pro](https://plataforma.dev.pro.br/)
 
-[![Build Status](https://www.travis-ci.org/tpocean/libpythonpro.svg?branch=main)](https://www.travis-ci.org/tpocean/libpythonpro)
+[![Build Status](https://travis-ci.com/tpocean/libpythonpro.svg?branch=main)](https://travis-ci.com/tpocean/libpythonpro)
 
 Suportado versão 3 de Python
 
