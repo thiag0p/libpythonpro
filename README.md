@@ -28,3 +28,5 @@ Tópicos a serem mencionados:
  1. Git
  2. Virtualenv
  3. Pip
+ 
+ Adicionada linha para teste extra.
