@@ -29,4 +29,4 @@ Tópicos a serem mencionados:
  2. Virtualenv
  3. Pip
  
- Adicionada linha para teste extra.
+ Editada linha extra de teste.
