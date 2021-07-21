@@ -7,6 +7,6 @@ atomicwrites==1.0
 pluggy==0.12
 importlib-metadata==0.12
 pyparsing==2.0.2
-typing-extensions==3.6.4
+typing-extensions==3.10.0.0
 zipp==0.5
 -r requiriments.txt
