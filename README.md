@@ -8,6 +8,7 @@ Link do curso [Python Pro](https://plataforma.dev.pro.br/)
 [![Build Status](https://travis-ci.com/thiag0p/libpythonpro.svg?branch=main)](https://travis-ci.com/thiag0p/libpythonpro)
 [![Updates](https://pyup.io/repos/github/thiag0p/libpythonpro/shield.svg)](https://pyup.io/repos/github/thiag0p/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/thiag0p/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/thiag0p/libpythonpro/)
+[![codecov](https://codecov.io/gh/thiag0p/libpythonpro/branch/main/graph/badge.svg?token=LUB2AVKVDL)](https://codecov.io/gh/thiag0p/libpythonpro)
 
 Suportado versão 3 de Python
 
