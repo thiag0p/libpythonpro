@@ -9,4 +9,4 @@ flake8==3.9.2
 # pyparsing==2.0.2
 # typing-extensions==3.6.4
 # zipp==0.5
-# -r requiriments.txt
+-r requiriments.txt
